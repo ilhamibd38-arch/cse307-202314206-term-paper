@@ -1,0 +1,16 @@
+frames,policy,after shift,before shift,drop
+4,FIFO,0.2952,0.6764,0.3812
+4,LRU,0.2984,0.6716,0.3732
+4,Learned (both phases),0.2084,0.4668,0.2584
+4,Learned (static),0.228,0.696,0.468
+4,Optimal,0.428,0.8076,0.3796
+8,FIFO,0.3488,0.8344,0.4856
+8,LRU,0.3504,0.8672,0.5168
+8,Learned (both phases),0.3176,0.7136,0.396
+8,Learned (static),0.3436,0.8956,0.552
+8,Optimal,0.5612,0.9144,0.3532
+16,FIFO,0.4788,0.892,0.4132
+16,LRU,0.4768,0.914,0.4372
+16,Learned (both phases),0.4648,0.8464,0.3816
+16,Learned (static),0.478,0.9124,0.4344
+16,Optimal,0.7212,0.9452,0.224

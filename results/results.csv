@@ -1,0 +1,46 @@
+policy,frames,phase,refs,faults,hit_ratio
+FIFO,4,before shift,2500,809,0.6764
+FIFO,4,after shift,2500,1762,0.2952
+FIFO,4,overall,5000,2571,0.4858
+LRU,4,before shift,2500,821,0.6716
+LRU,4,after shift,2500,1754,0.2984
+LRU,4,overall,5000,2575,0.485
+Optimal,4,before shift,2500,481,0.8076
+Optimal,4,after shift,2500,1430,0.428
+Optimal,4,overall,5000,1911,0.6178
+Learned (static),4,before shift,2500,760,0.696
+Learned (static),4,after shift,2500,1930,0.228
+Learned (static),4,overall,5000,2690,0.462
+Learned (both phases),4,before shift,2500,1333,0.4668
+Learned (both phases),4,after shift,2500,1979,0.2084
+Learned (both phases),4,overall,5000,3312,0.3376
+FIFO,8,before shift,2500,414,0.8344
+FIFO,8,after shift,2500,1628,0.3488
+FIFO,8,overall,5000,2042,0.5916
+LRU,8,before shift,2500,332,0.8672
+LRU,8,after shift,2500,1624,0.3504
+LRU,8,overall,5000,1956,0.6088
+Optimal,8,before shift,2500,214,0.9144
+Optimal,8,after shift,2500,1097,0.5612
+Optimal,8,overall,5000,1311,0.7378
+Learned (static),8,before shift,2500,261,0.8956
+Learned (static),8,after shift,2500,1641,0.3436
+Learned (static),8,overall,5000,1902,0.6196
+Learned (both phases),8,before shift,2500,716,0.7136
+Learned (both phases),8,after shift,2500,1706,0.3176
+Learned (both phases),8,overall,5000,2422,0.5156
+FIFO,16,before shift,2500,270,0.892
+FIFO,16,after shift,2500,1303,0.4788
+FIFO,16,overall,5000,1573,0.6854
+LRU,16,before shift,2500,215,0.914
+LRU,16,after shift,2500,1308,0.4768
+LRU,16,overall,5000,1523,0.6954
+Optimal,16,before shift,2500,137,0.9452
+Optimal,16,after shift,2500,697,0.7212
+Optimal,16,overall,5000,834,0.8332
+Learned (static),16,before shift,2500,219,0.9124
+Learned (static),16,after shift,2500,1305,0.478
+Learned (static),16,overall,5000,1524,0.6952
+Learned (both phases),16,before shift,2500,384,0.8464
+Learned (both phases),16,after shift,2500,1338,0.4648
+Learned (both phases),16,overall,5000,1722,0.6556
